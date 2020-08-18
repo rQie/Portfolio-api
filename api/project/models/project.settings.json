@@ -29,7 +29,8 @@
       "required": true
     },
     "github": {
-      "type": "string"
+      "type": "string",
+      "required": false
     },
     "url": {
       "type": "string"

@@ -1,7 +1,7 @@
 {
   "collectionName": "components_description_stacks",
   "info": {
-    "name": "stack item",
+    "name": "stack_item",
     "icon": "arrow-right"
   },
   "options": {},
